@@ -1,8 +1,7 @@
-# React + Vite
+# Frontend: Tela de Login e Registro com React
+Este repositório contém um frontend React para uma tela de login com a funcionalidade de registro de conta. Os dados do usuário são armazenados no MongoDB.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Funcionalidades
+Login: Os usuários podem fazer login usando suas credenciais existentes.
+Registro: Os usuários podem criar uma nova conta fornecendo informações necessárias, como nome de usuário, e-mail e senha.
+Persistência de Dados: Os dados do usuário são armazenados no MongoDB.
